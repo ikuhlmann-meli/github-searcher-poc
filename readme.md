@@ -1,1 +1,1 @@
-SECRET=A credential hard coded here
+SECRET=Now, I have erased my credentials and done a new commit
