@@ -1,1 +1,1 @@
-SECRET=
+SECRET=A credential hard coded here
